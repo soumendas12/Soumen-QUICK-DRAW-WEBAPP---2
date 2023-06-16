@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+}
+h1{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cornsilk;
+    color: blue;
+  }
+  #show_sketch{
+    float: right;
+  }
+  #score{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5px;
+  }
+  #timer{
+    float: right;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 5px;
+  }
+  p{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+  }
+  #sketch_to_be_drawn{
+    color: red;
+  }
